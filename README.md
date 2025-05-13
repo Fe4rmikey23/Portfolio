@@ -10,4 +10,4 @@ Aktuell arbeite ich mit HTML, CSS, JavaScript und lerne React & Flutter.
 
 Mehr bald!
 
-📫 Kontakt: [deine.email@example.com](mailto:deine.email@example.com)
+📫 Kontakt: [Jonas.schwenk187@gmail.com](mailto:Jonas.schwenk187@gmail.com)
